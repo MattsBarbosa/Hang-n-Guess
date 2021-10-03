@@ -150,12 +150,5 @@ def imprime_mensagem_vencedor():
     print("         _.' '._        ")
     print("        '-------'       ")
 
-
-
-  #letras_acertadas = ["_" for letra in palavra_secreta]
-    #for letra in palavra_secreta:
-    #    letras_acertadas.append("_")
-
-
 if (__name__ == "__main__"):
     jogar()

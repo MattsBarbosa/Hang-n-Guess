@@ -47,9 +47,3 @@ def jogar():
 
 if(__name__ == "__main__"):
     jogar()
-
-    #while(rodada <= total_tentativas):
-    #rodada = rodada + 1
-    #range(start, stop, [step])
-    #print("Tentativa {} de {}.".format(rodada, total_tentativas))
-
